@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776226588286",
+    "project_id": "qrscannerattendance",
+    "storage_bucket": "qrscannerattendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776226588286:android:5cae6b3be806294e137a2f",
+        "android_client_info": {
+          "package_name": "com.example.qr_attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKifK012SMVO0qP4D7pCHv3iKFNiRoZno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
